@@ -1,0 +1,6 @@
+C:\Users\ASUS\Music\P1_1_1204037\P1_1_1204037\bin\Debug\P1_1_1204037.exe.config
+C:\Users\ASUS\Music\P1_1_1204037\P1_1_1204037\bin\Debug\P1_1_1204037.exe
+C:\Users\ASUS\Music\P1_1_1204037\P1_1_1204037\bin\Debug\P1_1_1204037.pdb
+C:\Users\ASUS\Music\P1_1_1204037\P1_1_1204037\obj\Debug\P1_1_1204037.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Music\P1_1_1204037\P1_1_1204037\obj\Debug\P1_1_1204037.exe
+C:\Users\ASUS\Music\P1_1_1204037\P1_1_1204037\obj\Debug\P1_1_1204037.pdb
