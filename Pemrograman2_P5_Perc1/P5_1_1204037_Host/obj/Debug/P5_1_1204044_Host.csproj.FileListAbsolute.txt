@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\bin\Debug\P5_1_1204044_Host.exe.config
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\bin\Debug\P5_1_1204044_Host.exe
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\bin\Debug\P5_1_1204044_Host.pdb
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\bin\Debug\P5_1_1204044.dll
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\bin\Debug\P5_1_1204044.pdb
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\obj\Debug\P5_1_1204044_Host.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\obj\Debug\P5_1_1204044_Host.Form1.resources
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\obj\Debug\P5_1_1204044_Host.Properties.Resources.resources
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\obj\Debug\P5_1_1204044_Host.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\obj\Debug\P5_1_1204044_Host.exe
+C:\Users\user\OneDrive\Gambar\Dokumen\Visual Studio 2015\Projects\P5_1_1204044\P5_1_1204044_Host\obj\Debug\P5_1_1204044_Host.pdb
